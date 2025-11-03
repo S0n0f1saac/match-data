@@ -1,0 +1,11 @@
+{
+    "title": "Brazil vs Croatia \u2013 World Cup Opener 2014",
+    "creator": "Human Tagger",
+    "date": "2014-06-12",
+    "subject": "Event types (Goals, Passes, Fouls, Saves)",
+    "identifier": "BRA_CRO_2014_OPENER",
+    "description": "Opening match data with ball trajectories and timestamps.",
+    "format": "CSV + JSON",
+    "coverage": "Arena Corinthians, S\u00e3o Paulo \u2013 Group Stage",
+    "rights": "Licensed under CC-BY 4.0"
+}

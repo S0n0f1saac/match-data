@@ -1,0 +1,11 @@
+{
+    "title": "England vs Italy \u2013 Group D 2014",
+    "creator": "Automated Vision Tagger",
+    "date": "2014-06-14",
+    "subject": "Event types (Goals, Crosses, Tackles, Passes)",
+    "identifier": "ENG_ITA_2014_GROUP",
+    "description": "Group stage match with positional and event tracking data.",
+    "format": "CSV + JSON",
+    "coverage": "Arena Amazonia, Manaus \u2013 Group D",
+    "rights": "Licensed under CC-BY 4.0"
+}

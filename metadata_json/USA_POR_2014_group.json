@@ -1,0 +1,11 @@
+{
+    "title": "USA vs Portugal \u2013 Group G 2014",
+    "creator": "Human Tagger",
+    "date": "2014-06-22",
+    "subject": "Event types (Goals, Assists, Fouls, Corners)",
+    "identifier": "USA_POR_2014_GROUP",
+    "description": "Group stage data with contextual and player metadata.",
+    "format": "CSV + JSON",
+    "coverage": "Arena da Amaz\u00f4nia, Manaus \u2013 Group G",
+    "rights": "Licensed under CC-BY 4.0"
+}

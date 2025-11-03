@@ -1,0 +1,11 @@
+{
+    "title": "Netherlands vs Mexico \u2013 Round of 16 2014",
+    "creator": "Human Tagger",
+    "date": "2014-06-29",
+    "subject": "Event types (Goals, Fouls, Saves, Passes)",
+    "identifier": "NED_MEX_2014_R16",
+    "description": "Knockout round data with event and spatial tracking.",
+    "format": "CSV + JSON",
+    "coverage": "Est\u00e1dio Castel\u00e3o, Fortaleza \u2013 Round of 16",
+    "rights": "Licensed under CC-BY 4.0"
+}

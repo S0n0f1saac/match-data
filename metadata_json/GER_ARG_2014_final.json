@@ -1,0 +1,11 @@
+{
+    "title": "Germany vs Argentina \u2013 World Cup Final 2014",
+    "creator": "Human Tagger",
+    "date": "2014-07-13",
+    "subject": "Event types (Shots, Passes, Goals, Fouls)",
+    "identifier": "GER_ARG_2014_FINAL",
+    "description": "Dataset of match events with timestamps and x/y coordinates per player action",
+    "format": "CSV + JSON",
+    "coverage": "Maracan\u00e3 Stadium, Rio de Janeiro \u2013 World Cup Final",
+    "rights": "Licensed under CC-BY 4.0"
+}
